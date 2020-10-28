@@ -16,5 +16,5 @@
 
   <h3 align="left>Please direct any questions to my email:</h3>
   <h5 align="left">sgdaji</h5>
-  <img src=https://avatars1.githubusercontent.com/u/57682169?v=4/>![user picture](https://avatars1.githubusercontent.com/u/57682169?v=4)
+  <img src=https://avatars1.githubusercontent.com/u/57682169?v=4/>
   
