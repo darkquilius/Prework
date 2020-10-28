@@ -14,7 +14,7 @@
   <h3 align="left">Tests used:</h3>
   <h5 align="left">sgda</h5>
 
-  <h3 align="left>Please direct any questions to my email:</h3>
+  <h3 align="left">Please direct any questions to my email:</h3>
   <h5 align="left">sgdaji</h5>
   <img src=https://avatars1.githubusercontent.com/u/57682169?v=4/>
   
